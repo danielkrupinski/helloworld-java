@@ -1,2 +1,1 @@
-# helloworld-java
-Hello world! - Java
+# Hello world! in Java
